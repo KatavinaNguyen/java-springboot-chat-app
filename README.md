@@ -6,7 +6,7 @@ You'll need maven installed if you don't have it already:
 [Watch Demo](https://youtu.be/QnRgXUTsZNY)
 
 <a href="https://youtu.be/MKCcHy_BbfM">
-  <img src="https://github.com/user-attachments/assets/d7d33883-23f4-4346-965a-3c2a14c777a5" alt="Watch Demo" />
+  <img src="https://github.com/user-attachments/assets/f6e10afe-ffd8-4fe0-b943-35dfe3a37793" alt="Watch Demo" />
 </a>
 
 <img src="https://github.com/user-attachments/assets/9e2ca2c3-d364-4584-816d-9a2c0dc3c392"  width="400">
