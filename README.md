@@ -3,7 +3,13 @@
 You'll need maven installed if you don't have it already: 
 [here's a link](https://maven.apache.org/download.cgi)
 
-<img src="https://github.com/user-attachments/assets/fdc00e55-4d6c-41a0-93f5-f742d93dca64"  width="400">
-<img src="https://github.com/user-attachments/assets/3b596a2a-773f-415b-9e1f-ae9fc0220828"  width="400">
+[Watch Demo](https://youtu.be/QnRgXUTsZNY)
+
+<a href="https://youtu.be/MKCcHy_BbfM">
+  <img src="https://github.com/user-attachments/assets/d7d33883-23f4-4346-965a-3c2a14c777a5" alt="Watch Demo" />
+</a>
+
+<img src="https://github.com/user-attachments/assets/9e2ca2c3-d364-4584-816d-9a2c0dc3c392"  width="400">
+<img src="https://github.com/user-attachments/assets/0d8527eb-772a-4455-a420-85c8950f5188"  width="400">
 <img src="https://github.com/user-attachments/assets/1b787cf0-f296-499c-a58b-5dcce5cf9d34"  width="400">
 <img src="https://github.com/user-attachments/assets/dbd5d8e8-c0ab-4cec-8ad8-815319e6066e"  width="400">
